@@ -1,2 +1,1 @@
-# Quants
-Data analysis in python and R
+README.md file
