@@ -8,12 +8,6 @@
 
 ### Create an executable.
 
-Download and install Miniconda.
-
-<code>curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh</code>
-
-### Create an executable.
-
 <code> chmod u+x Miniconda3-latest-linux-x86_64.sh</code>
 
 ### Run the executable
