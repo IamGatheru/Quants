@@ -1,12 +1,12 @@
-## Python for Data Analysis
+# Python for Data Analysis
 
-# Prelims
-- Download and install Miniconda
+## Prelims
+###Download and install Miniconda.
 
-<bash> curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh</bash>
+<code>curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh</code>
 
-- Create an executable
+###Create an executable.
 <code> chmod u+x Miniconda3-latest-linux-x86_64.sh</code>
 
-- Run the executable
+### Run the executable
 <code> ./Miniconda3-latest-linux-x86_64.sh</code>
