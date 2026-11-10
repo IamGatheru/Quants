@@ -18,3 +18,17 @@ This folder contains markdown and python source code illustrating cases of multi
 * Effects of differencing on VIF.
 * How to reduce multicollinearity(PCA, feature removal,feature combination/conversion)
 * Will removal of dimensionality kill the 'rank deficiency warning'
+* What is kernel approximation
+
+
+### Endogeniety
+- Refers to a situation in econometrics where an explanatory variable is correlated with the error term in a regression model.
+
+  ## Causes
+  1. Two way causality
+  2. Omitted variables
+
+### Principal Component Analysis
+
+
+### Dimensionality Reduction

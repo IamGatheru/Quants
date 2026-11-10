@@ -18,6 +18,7 @@ This folder contains markdown and python source code illustrating cases of multi
 * Effects of differencing on VIF.
 * How to reduce multicollinearity(PCA, feature removal,feature combination/conversion)
 * Will removal of dimensionality kill the 'rank deficiency warning'
+* What is kernel approximation
 
 
 ### Endogeniety
