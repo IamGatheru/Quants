@@ -19,7 +19,7 @@ This folder contains markdown and python source code illustrating cases of multi
 * How to reduce multicollinearity(PCA, feature removal,feature combination/conversion)
 * Will removal of dimensionality kill the 'rank deficiency warning'
 * What is kernel approximation
-
+* Singularity
 
 ### Endogeniety
 - Refers to a situation in econometrics where an explanatory variable is correlated with the error term in a regression model.
