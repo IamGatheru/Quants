@@ -1,5 +1,6 @@
 ### Boston Housing Dataset.
-I will be working through multicollinearity using the Boston bousing dataset cause The california housing dataset negligible multicolinearity level which was the whole point of looking into it.
+
+I will be working through multicollinearity using the Boston bousing dataset cause apparently, The california housing dataset had negligible multicolinearity.
 
 The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA. The following describes the dataset columns:
 
@@ -17,6 +18,4 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
 * B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 * LSTAT - % lower status of the population
 * MEDV - Median value of owner-occupied homes in $1000's
-
-
 
