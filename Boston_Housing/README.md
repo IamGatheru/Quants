@@ -19,3 +19,6 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
 * LSTAT - % lower status of the population
 * MEDV - Median value of owner-occupied homes in $1000's
 
+- (Pairplot and correlation Heatmap interpretation)[https://plotly.com/blog/correlation-matrix-guide/]
+- Increase accuracy to 78+
+- Checkout Multithreading in python(async and asyncio)

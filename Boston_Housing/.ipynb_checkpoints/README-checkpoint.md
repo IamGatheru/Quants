@@ -1,5 +1,6 @@
 ### Boston Housing Dataset.
-I will be working through multicollinearity using the Boston bousing dataset cause The california housing dataset negligible multicolinearity level which was the whole point of looking into it.
+
+I will be working through multicollinearity using the Boston bousing dataset cause apparently, The california housing dataset had negligible multicolinearity.
 
 The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA. The following describes the dataset columns:
 
@@ -18,5 +19,6 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
 * LSTAT - % lower status of the population
 * MEDV - Median value of owner-occupied homes in $1000's
 
-
-
+- (Pairplot and correlation Heatmap interpretation)[https://plotly.com/blog/correlation-matrix-guide/]
+- Increase accuracy to 78+
+- Checkout Multithreading in python(async and asyncio)
